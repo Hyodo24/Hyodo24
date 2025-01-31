@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://localhost:1313"
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 publishDir = 'docs'
@@ -59,7 +59,7 @@ googleAnalytics = "G-PEDMYR1V0K"
         weight = 50
 
     [[related.indices]]
-        name = "authors"
+        name = "autori"
         weight = 20
 
     [[related.indices]]

@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Blowfish</title>
-    <link>http://localhost:1313/tags/homepage/</link>
-    <description>Recent content in Homepage on Blowfish</description>
+    <title>Homepage on Pippo</title>
+    <link>http://localhost:57972/tags/homepage/</link>
+    <description>Recent content in Homepage on Pippo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2024 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language>
+    <copyright>© 2025 Pippo 2</copyright>
+    <atom:link href="http://localhost:57972/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homepage Layout</title>
-      <link>http://localhost:1313/docs/homepage-layout/</link>
+      <link>http://localhost:57972/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/docs/homepage-layout/</guid>
-      <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+      
+      <guid>http://localhost:57972/docs/homepage-layout/</guid>
+      <description>&lt;p&gt;Blowfish fornisce un layout della home page completamente flessibile. Sono disponibili due modelli principali tra cui scegliere con impostazioni aggiuntive per adattare il design. In alternativa, puoi anche fornire il tuo modello e avere il controllo completo sul contenuto della home page.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57972/docs/homepage-layout/featured.svg" />
     </item>
     
   </channel>

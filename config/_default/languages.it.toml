@@ -1,21 +1,21 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "Pippo"
 
 [params]
   displayName = "Italiano"
   isoCode = "it"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "9 July 2004"
   logo = "img/blowfish_logo_transparent.png"
   description = "Un potente, leggero tema per Hugo."
 
 [params.author]
-  name = "Blowfish"
+  name = "Pippo 2"
   image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema per Hugo."
-  bio = "Un potente, leggero tema per Hugo."
+  headline = "Questo va cambiato in headline"
+  bio = "Questo va cambiata in Bio"
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },

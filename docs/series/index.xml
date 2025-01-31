@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Blowfish</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Blowfish</description>
+    <title>Series on Pippo</title>
+    <link>http://localhost:57972/series/</link>
+    <description>Recent content in Series on Pippo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2024 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language>
+    <copyright>© 2025 Pippo 2</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57972/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Documentazione</title>
+      <link>http://localhost:57972/series/documentazione/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:57972/series/documentazione/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/series/documentation/</link>
+      <link>http://localhost:57972/series/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/series/documentation/</guid>
+      
+      <guid>http://localhost:57972/series/documentation/</guid>
       <description></description>
       
     </item>
