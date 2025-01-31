@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>部署 on Blowfish</title>
-    <link>http://localhost:57972/zh-cn/tags/%E9%83%A8%E7%BD%B2/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E9%83%A8%E7%BD%B2/</link>
     <description>Recent content in 部署 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:57972/zh-cn/tags/%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>托管和部署</title>
-      <link>http://localhost:57972/zh-cn/docs/hosting-deployment/</link>
+      <link>http://localhost:1313/zh-cn/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/zh-cn/docs/hosting-deployment/</guid>
-      <description>&lt;p&gt;有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57972/docs/hosting-deployment/featured.svg" />
+      <guid>http://localhost:1313/zh-cn/docs/hosting-deployment/</guid>
+      <description>&lt;p&gt;有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。&lt;/p&gt;
+&lt;p&gt;Blowfish 主题是通过将目录转换成相对 URL 路径来构建的。这让网站可以轻松地将子文件夹部署到类似 GitHub Pages 的托管服务中。只要在 &lt;code&gt;config.toml&lt;/code&gt; 文件中配置了 &lt;code&gt;baseURL&lt;/code&gt; 参数即可，通常不需要其他特殊的配置就能正常工作。&lt;/p&gt;
+&lt;p&gt;Hugo 官方&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/&#34; target=&#34;_blank&#34;&gt;托管与部署&lt;/a&gt;文档是了解如何部署网站的最佳方案。下面会介绍详细介绍一些方案，希望能帮助你在以下平台顺利部署。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;选择你喜欢的服务商：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#github-pages&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#netlify&#34;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#render&#34;&gt;Render&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cloudflare-pages&#34;&gt;Cloudflare Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%85%b1%e4%ba%ab%e4%b8%bb%e6%9c%bavps-%e6%88%96%e8%80%85-%e7%a7%81%e6%9c%89%e6%9c%8d%e5%8a%a1%e5%99%a8&#34;&gt;共享主机，VPS 或者 私有服务器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;GitHub Pages 
+    &lt;div id=&#34;github-pages&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-pages&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;GitHub 允许你使用 Actions 在 &lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; 上托管静态网站。如果想要启用此功能，需要你在代码库中启用 Pages 并创建一个新的 Actions 工作流，以此来构建和部署你的网站。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
     </item>
     
   </channel>

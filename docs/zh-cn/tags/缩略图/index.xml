@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>缩略图 on Blowfish</title>
-    <link>http://localhost:57972/zh-cn/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/</link>
     <description>Recent content in 缩略图 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57972/zh-cn/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E7%BC%A9%E7%95%A5%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>缩略图</title>
-      <link>http://localhost:57972/zh-cn/docs/thumbnails/</link>
+      <link>http://localhost:1313/zh-cn/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/zh-cn/docs/thumbnails/</guid>
+      <guid>http://localhost:1313/zh-cn/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;缩略图 
     &lt;div id=&#34;%E7%BC%A9%E7%95%A5%E5%9B%BE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -25,16 +25,21 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Blowfish 对视觉支持进行了增强，可以让你轻松地为文章添加缩略图。你只需要将一个以 &lt;code&gt;feature*&lt;/code&gt; 开头的图像文件（支持几乎所有格式，但更推荐 &lt;code&gt;.png&lt;/code&gt; 或 &lt;code&gt;.jpg&lt;/code&gt;）放置在文章所在的目录中，如下面所示：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57972/docs/thumbnails/featured.svg" />
+&lt;p&gt;Blowfish 对视觉支持进行了增强，可以让你轻松地为文章添加缩略图。你只需要将一个以 &lt;code&gt;feature*&lt;/code&gt; 开头的图像文件（支持几乎所有格式，但更推荐 &lt;code&gt;.png&lt;/code&gt; 或 &lt;code&gt;.jpg&lt;/code&gt;）放置在文章所在的目录中，如下面所示：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;content
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└── awesome_article
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ├── index.md
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    └── featured.png
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这将告诉 Blowfish 这篇文章有一个特征图片，这个图片可以在网站作为缩略图使用，也可以用于社交平台上的 &lt;a target=&#34;_blank&#34; href=&#34;https://oembed.com/&#34;&gt;oEmbed&lt;/a&gt; 卡片。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
     </item>
     
     <item>
       <title>缩略图</title>
-      <link>http://localhost:57972/zh-cn/samples/thumbnail_sample/</link>
+      <link>http://localhost:1313/zh-cn/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/zh-cn/samples/thumbnail_sample/</guid>
+      <guid>http://localhost:1313/zh-cn/samples/thumbnail_sample/</guid>
       <description>一个展示如何在你的文章中开始使用缩略图的快速示例。</description>
       
     </item>

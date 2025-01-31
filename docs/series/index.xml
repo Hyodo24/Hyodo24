@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Pippo</title>
-    <link>http://localhost:57972/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Pippo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Pippo 2</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57972/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentazione</title>
-      <link>http://localhost:57972/series/documentazione/</link>
+      <link>http://localhost:1313/series/documentazione/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/series/documentazione/</guid>
+      <guid>http://localhost:1313/series/documentazione/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Documentation</title>
-      <link>http://localhost:57972/series/documentation/</link>
+      <link>http://localhost:1313/series/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/series/documentation/</guid>
+      <guid>http://localhost:1313/series/documentation/</guid>
       <description></description>
       
     </item>

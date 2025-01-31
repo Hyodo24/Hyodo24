@@ -3,17 +3,17 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://hyodo24.github.io"
 defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
-publishDir = 'docs'
+publishDir = "docs"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 30
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 buildDrafts = false
 buildFuture = false

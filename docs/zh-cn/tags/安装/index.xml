@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>安装 on Blowfish</title>
-    <link>http://localhost:57972/zh-cn/tags/%E5%AE%89%E8%A3%85/</link>
+    <link>http://localhost:1313/zh-cn/tags/%E5%AE%89%E8%A3%85/</link>
     <description>Recent content in 安装 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="http://localhost:57972/zh-cn/tags/%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>安装和配置</title>
-      <link>http://localhost:57972/zh-cn/docs/installation/</link>
+      <link>http://localhost:1313/zh-cn/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/zh-cn/docs/installation/</guid>
+      <guid>http://localhost:1313/zh-cn/docs/installation/</guid>
       <description>&lt;p&gt;如果想快速上手，可以按照标准的 Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;快速启动&lt;/a&gt; 文档。&lt;/p&gt;
 &lt;p&gt;更详细的安装如下，&lt;a href=&#34;#installing-updates&#34;&gt;更新主题&lt;/a&gt;的教程也可以看此文档。&lt;/p&gt;
 
@@ -29,16 +29,29 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;本文将一步一步指导你学会使用 Hugo 和 Blowfish。本文中提到的大多数依赖项都可以在任意你想使用的平台中使用和安装。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57972/docs/installation/featured.svg" />
+&lt;p&gt;本文将一步一步指导你学会使用 Hugo 和 Blowfish。本文中提到的大多数依赖项都可以在任意你想使用的平台中使用和安装。&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;安装 Hugo 
+    &lt;div id=&#34;%E5%AE%89%E8%A3%85-hugo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AE%89%E8%A3%85-hugo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;如果你之前没有使用过 Hugo，你首先需要了解&lt;a href=&#34;https://gohugo.io/getting-started/installing&#34; target=&#34;_blank&#34;&gt;在本地机器安装 Hugo&lt;/a&gt;。你可以通过运行命令 &lt;code&gt;hugo version&lt;/code&gt; 来检查是否安装完成。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>入门指南</title>
-      <link>http://localhost:57972/zh-cn/docs/getting-started/</link>
+      <link>http://localhost:1313/zh-cn/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:57972/zh-cn/docs/getting-started/</guid>
+      <guid>http://localhost:1313/zh-cn/docs/getting-started/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -62,7 +75,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;本节内容需要已经阅读了 &lt;a href=&#34;http://localhost:57972/zh-cn/docs/installation/&#34; target=&#34;_blank&#34;&gt;安装 Blowfish 主题&lt;/a&gt;。&lt;/span&gt;
+    &gt;本节内容需要已经阅读了 &lt;a href=&#34;http://localhost:1313/zh-cn/docs/installation/&#34; target=&#34;_blank&#34;&gt;安装 Blowfish 主题&lt;/a&gt;。&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -95,7 +108,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;我们刚刚推出了一个 CLI 工具，用来帮助你快速开始 Blowfish。 它将帮助你安装和配置 Blowfish 主题。 可以使用以下命令全局安装 CLI 工具：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57972/docs/per-iniziare/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=57972&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="zh-cn" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="文档, 托管, 部署, github, netlify, 渲染器, " />
   
   
-  <link rel="canonical" href="http://localhost:57972/zh-cn/docs/hosting-deployment/" />
+  <link rel="canonical" href="http://localhost:1313/zh-cn/docs/hosting-deployment/" />
   
   
   
@@ -26,8 +26,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.e27868ab1485f7ed7b06b122b4980bd38b19526eb8f7de885181204d28f04a0c47e9c334eff19a06c0278eb2ff8415b983a5d0fb80fd6b5680c926457cc61c57.css"
-    integrity="sha512-4nhoqxSF9&#43;17BrEitJgL04sZUm64996IUYEgTSjwSgxH6cM07/GaBsAnjrL/hBW5g6XQ&#43;4D9a1aAySZFfMYcVw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.33b821b98bed98d82304a33225b044ffc91795a83a2269725220d351a865c121f3a8e19b3a120c5655483cadf9f506616d59001989550c3f4d6d9b2d1f8d4393.css"
+    integrity="sha512-M7ghuYvtmNgjBKMyJbBE/8kXlag6ImlyUiDTUahlwSHzqOGbOhIMVlVIPK359QZhbVkAGYlVDD9NbZstH41Dkw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -67,7 +67,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:57972/zh-cn/docs/hosting-deployment/">
+  <meta property="og:url" content="http://localhost:1313/zh-cn/docs/hosting-deployment/">
   <meta property="og:site_name" content="Blowfish">
   <meta property="og:title" content="托管和部署">
   <meta property="og:description" content="了解如何部署 Blowfish 网页。">
@@ -80,18 +80,18 @@
     <meta property="article:tag" content="Github">
     <meta property="article:tag" content="Netlify">
     <meta property="article:tag" content="渲染器">
-    <meta property="og:image" content="http://localhost:57972/docs/hosting-deployment/featured.svg">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/welcome/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/installation/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/getting-started/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/configuration/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/homepage-layout/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/shortcodes/">
-      <meta property="og:see_also" content="http://localhost:57972/zh-cn/docs/front-matter/">
+    <meta property="og:image" content="http://localhost:1313/docs/hosting-deployment/featured.svg">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/welcome/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/installation/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/getting-started/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/configuration/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/homepage-layout/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/shortcodes/">
+      <meta property="og:see_also" content="http://localhost:1313/zh-cn/docs/front-matter/">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:57972/docs/hosting-deployment/featured.svg">
+  <meta name="twitter:image" content="http://localhost:1313/docs/hosting-deployment/featured.svg">
   <meta name="twitter:title" content="托管和部署">
   <meta name="twitter:description" content="了解如何部署 Blowfish 网页。">
 
@@ -104,9 +104,9 @@
     "name": "托管和部署",
     "headline": "托管和部署",
     "description": "了解如何部署 Blowfish 网页。",
-    "abstract": "\u003cp\u003e有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。\u003c\/p\u003e",
+    "abstract": "\u003cp\u003e有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。\u003c\/p\u003e\n\u003cp\u003eBlowfish 主题是通过将目录转换成相对 URL 路径来构建的。这让网站可以轻松地将子文件夹部署到类似 GitHub Pages 的托管服务中。只要在 \u003ccode\u003econfig.toml\u003c\/code\u003e 文件中配置了 \u003ccode\u003ebaseURL\u003c\/code\u003e 参数即可，通常不需要其他特殊的配置就能正常工作。\u003c\/p\u003e\n\u003cp\u003eHugo 官方\u003ca href=\u0022https:\/\/gohugo.io\/hosting-and-deployment\/\u0022 target=\u0022_blank\u0022\u003e托管与部署\u003c\/a\u003e文档是了解如何部署网站的最佳方案。下面会介绍详细介绍一些方案，希望能帮助你在以下平台顺利部署。\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003e选择你喜欢的服务商：\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\u0022#github-pages\u0022\u003eGitHub Pages\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022#netlify\u0022\u003eNetlify\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022#render\u0022\u003eRender\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022#cloudflare-pages\u0022\u003eCloudflare Pages\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022#%e5%85%b1%e4%ba%ab%e4%b8%bb%e6%9c%bavps-%e6%88%96%e8%80%85-%e7%a7%81%e6%9c%89%e6%9c%8d%e5%8a%a1%e5%99%a8\u0022\u003e共享主机，VPS 或者 私有服务器\u003c\/a\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003chr\u003e\n\r\n\r\n\u003ch2 class=\u0022relative group\u0022\u003eGitHub Pages \r\n    \u003cdiv id=\u0022github-pages\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\r\n    \r\n    \u003cspan\r\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\r\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\r\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#github-pages\u0022 aria-label=\u0022锚点\u0022\u003e#\u003c\/a\u003e\r\n    \u003c\/span\u003e        \r\n    \r\n\u003c\/h2\u003e\r\n\u003cp\u003eGitHub 允许你使用 Actions 在 \u003ca href=\u0022https:\/\/docs.github.com\/en\/pages\/getting-started-with-github-pages\/about-github-pages\u0022 target=\u0022_blank\u0022\u003eGitHub Pages\u003c\/a\u003e 上托管静态网站。如果想要启用此功能，需要你在代码库中启用 Pages 并创建一个新的 Actions 工作流，以此来构建和部署你的网站。\u003c\/p\u003e",
     "inLanguage": "zh-cn",
-    "url" : "http:\/\/localhost:57972\/zh-cn\/docs\/hosting-deployment\/",
+    "url" : "http:\/\/localhost:1313\/zh-cn\/docs\/hosting-deployment\/",
     "author" : {
       "@type": "Person",
       "name": "Blowfish"
@@ -120,7 +120,7 @@
     "keywords": ["文档","托管","部署","github","netlify","渲染器"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1324"
+    "wordCount": "302"
   }]
   </script>
 
@@ -206,7 +206,7 @@
             <span class="sr-only">Blowfish</span>
 
             
-            <img src="/img/blowfish_logo_transparent.png" width="1000" height="1000"
+            <img src="/img/blowfish_logo_transparent.png" width="561" height="682"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Blowfish" />
             
 
@@ -926,7 +926,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">3 分钟</span><span class="px-2 text-primary-500">&middot;</span>
+  <span title="预计阅读">2 分钟</span><span class="px-2 text-primary-500">&middot;</span>
 
 
   
@@ -1214,7 +1214,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/welcome/">
+        <a href="http://localhost:1313/zh-cn/docs/welcome/">
             § 1: 欢迎来到 Blowfish
         </a>
     </div>
@@ -1223,7 +1223,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/installation/">
+        <a href="http://localhost:1313/zh-cn/docs/installation/">
             § 2: 安装和配置
         </a>
     </div>
@@ -1232,7 +1232,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/getting-started/">
+        <a href="http://localhost:1313/zh-cn/docs/getting-started/">
             § 3: 入门指南
         </a>
     </div>
@@ -1241,7 +1241,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/configuration/">
+        <a href="http://localhost:1313/zh-cn/docs/configuration/">
             § 4: 配置
         </a>
     </div>
@@ -1250,7 +1250,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/homepage-layout/">
+        <a href="http://localhost:1313/zh-cn/docs/homepage-layout/">
             § 5: 主页布局
         </a>
     </div>
@@ -1259,7 +1259,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/thumbnails/">
+        <a href="http://localhost:1313/zh-cn/docs/thumbnails/">
             § 6: 缩略图
         </a>
     </div>
@@ -1268,7 +1268,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/front-matter/">
+        <a href="http://localhost:1313/zh-cn/docs/front-matter/">
             § 7: Front Matter(文件头信息)
         </a>
     </div>
@@ -1277,7 +1277,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/shortcodes/">
+        <a href="http://localhost:1313/zh-cn/docs/shortcodes/">
             § 8: 简码
         </a>
     </div>
@@ -1286,7 +1286,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/partials/">
+        <a href="http://localhost:1313/zh-cn/docs/partials/">
             § 9: 局部模板(Partials)
         </a>
     </div>
@@ -1295,7 +1295,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/multi-author/">
+        <a href="http://localhost:1313/zh-cn/docs/multi-author/">
             § 10: 多创作者模式
         </a>
     </div>
@@ -1304,7 +1304,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/series/">
+        <a href="http://localhost:1313/zh-cn/docs/series/">
             § 11: 系列
         </a>
     </div>
@@ -1313,7 +1313,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/content-examples/">
+        <a href="http://localhost:1313/zh-cn/docs/content-examples/">
             § 12: 内容示例
         </a>
     </div>
@@ -1322,7 +1322,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/advanced-customisation/">
+        <a href="http://localhost:1313/zh-cn/docs/advanced-customisation/">
             § 13: 进阶自定义
         </a>
     </div>
@@ -1338,7 +1338,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/firebase-views/">
+        <a href="http://localhost:1313/zh-cn/docs/firebase-views/">
             § 15: Firebase: 阅读量 &amp; 点赞量
         </a>
     </div>
@@ -1582,7 +1582,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/welcome/">
+        <a href="http://localhost:1313/zh-cn/docs/welcome/">
             § 1: 欢迎来到 Blowfish
         </a>
     </div>
@@ -1591,7 +1591,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/installation/">
+        <a href="http://localhost:1313/zh-cn/docs/installation/">
             § 2: 安装和配置
         </a>
     </div>
@@ -1600,7 +1600,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/getting-started/">
+        <a href="http://localhost:1313/zh-cn/docs/getting-started/">
             § 3: 入门指南
         </a>
     </div>
@@ -1609,7 +1609,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/configuration/">
+        <a href="http://localhost:1313/zh-cn/docs/configuration/">
             § 4: 配置
         </a>
     </div>
@@ -1618,7 +1618,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/homepage-layout/">
+        <a href="http://localhost:1313/zh-cn/docs/homepage-layout/">
             § 5: 主页布局
         </a>
     </div>
@@ -1627,7 +1627,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/thumbnails/">
+        <a href="http://localhost:1313/zh-cn/docs/thumbnails/">
             § 6: 缩略图
         </a>
     </div>
@@ -1636,7 +1636,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/front-matter/">
+        <a href="http://localhost:1313/zh-cn/docs/front-matter/">
             § 7: Front Matter(文件头信息)
         </a>
     </div>
@@ -1645,7 +1645,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/shortcodes/">
+        <a href="http://localhost:1313/zh-cn/docs/shortcodes/">
             § 8: 简码
         </a>
     </div>
@@ -1654,7 +1654,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/partials/">
+        <a href="http://localhost:1313/zh-cn/docs/partials/">
             § 9: 局部模板(Partials)
         </a>
     </div>
@@ -1663,7 +1663,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/multi-author/">
+        <a href="http://localhost:1313/zh-cn/docs/multi-author/">
             § 10: 多创作者模式
         </a>
     </div>
@@ -1672,7 +1672,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/series/">
+        <a href="http://localhost:1313/zh-cn/docs/series/">
             § 11: 系列
         </a>
     </div>
@@ -1681,7 +1681,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/content-examples/">
+        <a href="http://localhost:1313/zh-cn/docs/content-examples/">
             § 12: 内容示例
         </a>
     </div>
@@ -1690,7 +1690,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/advanced-customisation/">
+        <a href="http://localhost:1313/zh-cn/docs/advanced-customisation/">
             § 13: 进阶自定义
         </a>
     </div>
@@ -1706,7 +1706,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        <a href="http://localhost:57972/zh-cn/docs/firebase-views/">
+        <a href="http://localhost:1313/zh-cn/docs/firebase-views/">
             § 15: Firebase: 阅读量 &amp; 点赞量
         </a>
     </div>
@@ -1724,7 +1724,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="分享到 LinkedIn"
       aria-label="分享到 LinkedIn"
       >
@@ -1743,7 +1743,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;text=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;text=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="分享到 Twitter"
       aria-label="分享到 Twitter"
       >
@@ -1761,7 +1761,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://bsky.app/intent/compose?text=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2&#43;http://localhost:57972/zh-cn/docs/hosting-deployment/"
+      href="https://bsky.app/intent/compose?text=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2&#43;http://localhost:1313/zh-cn/docs/hosting-deployment/"
       title=""
       aria-label=""
       >
@@ -1779,7 +1779,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://reddit.com/submit/?url=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="提交到 Reddit"
       aria-label="提交到 Reddit"
       >
@@ -1798,7 +1798,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title=""
       aria-label=""
       >
@@ -1817,7 +1817,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://t.me/share/url?url=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://t.me/share/url?url=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;resubmit=true&amp;title=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title=""
       aria-label=""
       >
@@ -1836,7 +1836,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;description=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;description=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="钉到 Pinterest"
       aria-label="钉到 Pinterest"
       >
@@ -1855,7 +1855,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;quote=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;quote=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="分享到 Facebook"
       aria-label="分享到 Facebook"
       >
@@ -1874,7 +1874,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=http://localhost:57972/zh-cn/docs/hosting-deployment/&amp;subject=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
+      href="mailto:?body=http://localhost:1313/zh-cn/docs/hosting-deployment/&amp;subject=%e6%89%98%e7%ae%a1%e5%92%8c%e9%83%a8%e7%bd%b2"
       title="通过电子邮件发送"
       aria-label="通过电子邮件发送"
       >
@@ -1951,7 +1951,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">3 分钟</span>
+  <span title="预计阅读">1 分钟</span>
   
 
   
@@ -2085,7 +2085,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">3 分钟</span>
+  <span title="预计阅读">1 分钟</span>
   
 
   
@@ -2219,7 +2219,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">5 分钟</span>
+  <span title="预计阅读">3 分钟</span>
   
 
   
@@ -2345,7 +2345,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">3 分钟</span>
+  <span title="预计阅读">2 分钟</span>
   
 
   
@@ -2465,7 +2465,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">4 分钟</span>
+  <span title="预计阅读">2 分钟</span>
   
 
   
@@ -2591,7 +2591,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span title="预计阅读">4 分钟</span>
+  <span title="预计阅读">2 分钟</span>
   
 
   
@@ -2877,7 +2877,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:57972/zh-cn/"
+  data-url="http://localhost:1313/zh-cn/"
   style="z-index:500"
 >
   <div
