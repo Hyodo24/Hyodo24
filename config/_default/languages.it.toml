@@ -1,22 +1,23 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Pippo"
+title = "Zanzibar"
 
 [params]
   displayName = "Italiano"
   isoCode = "it"
   rtl = false
   dateFormat = "9 July 2004"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "Un potente, leggero tema per Hugo."
+  logo = "img/zanzilogo_testo.png"
+  description = "Un potente, leggero bar per Olivarella."
 
 [params.author]
-  name = "Pippo 2"
-  image = "img/blowfish_logo.png"
-  headline = "Questo va cambiato in headline"
-  bio = "Questo va cambiata in Bio"
+  name = "Zanzibar"
+  image = "img/zanzilogo.png"
+  headline = "Questo è l'ipotetico subheadline"
+  bio = "Questo va cambiata in Bio (ancora non so dove)"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://github.com/nunocoracao/blowfish" },
+    { facebook = "https://github.com/nunocoracao/blowfish" },
+
   ]
