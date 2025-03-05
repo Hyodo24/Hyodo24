@@ -21,34 +21,34 @@
   weight = 15
 
 [[main]]
-  name = "Esempi"
+  name = "Pasticceria"
   weight = 20
 
 [[main]]
-  name = "Campioni"
-  parent = "Esempi"
+  name = "Specialità"
+  parent = "Pasticceria"
   pageRef = "samples"
   weight = 16
 
 [[main]]
   name = "Vetrina"
-  parent = "Esempi"
+  parent = "Pasticceria"
   pageRef = "examples"
   weight = 30
 
 [[main]]
   name = "Ricette"
-  parent = "Esempi"
+  parent = "Pasticceria"
   pageRef = "guides"
   weight = 40
 
 [[main]]
-  name = "Utenti"
+  name = "Contatti"
   pageRef = "users"
   weight = 90
 
 [[main]]
-  name = "Merch"
+  name = "Info"
   url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
   weight = 100
 
@@ -57,11 +57,11 @@
 #  pageRef = "pagTest"
 #  weight = 1000
 
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
+#[[main]]
+# identifier = "twitter"
+#  pre = "x-twitter"
+# url = "https://twitter.com/burufugu"
+#  weight = 200
 
 #[[main]]
 #  identifier = "mastodon"
@@ -69,11 +69,11 @@
 #  weight = 300
 #  url = "https://masto.ai/@blowfish"
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 400
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/nunocoracao/blowfish"
+#  weight = 400
 
 
 # -- Footer Menu --
