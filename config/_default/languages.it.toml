@@ -7,7 +7,7 @@ title = "Zanzibar"
   displayName = "Italiano"
   isoCode = "it"
   rtl = false
-  dateFormat = "9 July 2004"
+  dateFormat = "04 january 2025"
   logo = "img/zanzilogo_testo.png"
   description = "Un potente, leggero bar per Olivarella."
 
@@ -17,7 +17,7 @@ title = "Zanzibar"
   headline = "Questo è l'ipotetico subheadline"
   bio = "Questo va cambiata in Bio (ancora non so dove)"
   links = [
-    { instagram = "https://github.com/nunocoracao/blowfish" },
-    { facebook = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://www.instagram.com/zanzibarpasticceriagelateria/" },
+    { facebook = "https://www.facebook.com/zanzibarpasticceriagelateria/" },
 
   ]
