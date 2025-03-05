@@ -120,5 +120,21 @@
       
     </item>
     
+    <item>
+      <title>示例</title>
+      <link>http://localhost:1313/samples/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/samples/_index.zh-cn/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish 让你的内容栩栩如生。 &amp;#x1f60d;
+&lt;/div&gt;
+
+&lt;p&gt;本节包含一些示例页面，展示了Blowfish如何呈现不同类型的内容。你还可以参考&lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;标签&lt;/a&gt;页面的示例。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;旁注：&lt;/strong&gt; 这个页面只是一个标准的Blowfish文章列表，并且已经配置了Hugo来生成一个 &lt;code&gt;samples&lt;/code&gt; 内容类型并显示文章摘要。&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

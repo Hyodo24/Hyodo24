@@ -267,5 +267,20 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
     </item>
     
+    <item>
+      <title>文档</title>
+      <link>http://localhost:1313/docs/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  了解如何使用简单而强大的 Blowfish。
+&lt;/div&gt;
+
+&lt;p&gt;本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;安装&lt;/a&gt; 指南，或者访问&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;示例&lt;/a&gt; 来了解 Blowfish 能做什么。&lt;/p&gt;
+&lt;hr&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

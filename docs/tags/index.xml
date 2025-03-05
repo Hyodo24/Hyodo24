@@ -120,6 +120,26 @@
     </item>
     
     <item>
+      <title>友链</title>
+      <link>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>示例</title>
+      <link>http://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Css</title>
       <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>

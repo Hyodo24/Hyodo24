@@ -5,7 +5,8 @@
 theme = "blowfish"
 baseURL = "https://hyodo24.github.io"
 defaultContentLanguage = "it"
-disableLanguages = [] #to allow translation work requiring shipping to production
+defaultContentLanguageInSubdir = false
+disableLanguages = ["en", "ja"]
 
 publishDir = "docs"
 

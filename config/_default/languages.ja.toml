@@ -1,5 +1,5 @@
 languageCode = "ja"
-languageName = "日本語"
+#languageName = "日本語"
 weight = 3
 title = "Blowfish"
 
