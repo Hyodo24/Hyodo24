@@ -32,11 +32,13 @@ smartTOCHideUnfocusedChildren = false
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
+  showMenu = false
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
+  showAuthor = false
+  showAuthorBottom = false
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
@@ -48,6 +50,7 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  demo = false
 
 [article]
   showDate = false
@@ -55,8 +58,8 @@ smartTOCHideUnfocusedChildren = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
-  # showAuthorBottom = false
+  showAuthor = false
+  showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -67,17 +70,16 @@ smartTOCHideUnfocusedChildren = false
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 6
   showTaxonomies = true 
-  showAuthorsBadges = true 
+  showAuthorsBadges = false 
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
-  showZenMode = true
+  sharingLinks = ["twitter", "whatsapp","facebook", "email", "instagram"]
 
 [list]
   showHero = true

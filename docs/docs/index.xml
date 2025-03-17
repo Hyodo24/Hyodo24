@@ -134,6 +134,18 @@
     </item>
     
     <item>
+      <title>Chi siamo</title>
+      <link>http://localhost:1313/docs/chisiamo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/chisiamo/</guid>
+      <description>&lt;h2&gt;Pippo&lt;/h2&gt;
+&lt;p&gt;Benvenuti allo Zanzibar, il luogo dove il gusto incontra l’atmosfera perfetta. Situato nel cuore della città, il nostro bar è il punto di riferimento per chi cerca un’esperienza unica, tra aromi intensi, drink d’autore e un’accoglienza che fa sentire a casa.
+&lt;p&gt;Dalla colazione all’aperitivo, ogni momento da Zanzibar è pensato per regalarti un piccolo viaggio di sapori. Che tu stia cercando un caffè speciale, un cocktail studiato nei minimi dettagli o un angolo rilassante per staccare dalla routine, qui troverai sempre il mix giusto.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Shortcodes</title>
       <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

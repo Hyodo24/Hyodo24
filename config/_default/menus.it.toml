@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Chi siamo?"
-  pageRef = "docs/shortcodes"
+  pageRef = "docs/chisiamo"
   weight = 15
 
 [[main]]
