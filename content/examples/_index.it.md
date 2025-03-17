@@ -1,9 +1,9 @@
 ---
-title: "Showcase"
+title: "Vetrina"
 description: "See what's possible with Blowfish."
 
-showLikes: true
-showViews: true
+showLikes: false
+showViews: false
 
 cascade:
   showEdit: false
@@ -14,9 +14,8 @@ cascade:
 ---
 
 {{< lead >}}
-See what's possible with Blowfish.
-{{< /lead >}}
+Prelibatezze da leccarsi le dita!{{< /lead >}}
 
-This section contains links to example templates and pages created using Blowfish to get you inspired.
+In questa sezione potrai dare un occhiata ad ogni nostra ricetta.
 
 ---

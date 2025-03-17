@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Showcase on Zanzibar</title>
+    <title>Vetrina on Zanzibar</title>
     <link>http://localhost:1313/examples/</link>
-    <description>Recent content in Showcase on Zanzibar</description>
+    <description>Recent content in Vetrina on Zanzibar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Zanzibar</copyright>

@@ -1,7 +1,7 @@
 ---
 title: "Chi siamo?"
 weight: 6
-description: "Pippo"
+backgrownd: docs/chisiamo/sfondozanzi.jpg
 ---
 <h2>La nostra storia</h2>
 <p>Benvenuti allo Zanzibar, il luogo dove il gusto incontra l’atmosfera perfetta. Situato nel cuore della città, il nostro bar è il punto di riferimento per chi cerca un’esperienza unica, tra aromi intensi, drink d’autore e un’accoglienza che fa sentire a casa.
