@@ -39,6 +39,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/docs/special/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/docs/front-matter/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

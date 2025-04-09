@@ -27,7 +27,7 @@
 [[main]]
   name = "Specialità"
   parent = "Pasticceria"
-  pageRef = "samples"
+  pageRef = "docs/special"
   weight = 16
 
 [[main]]
