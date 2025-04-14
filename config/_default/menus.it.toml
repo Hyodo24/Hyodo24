@@ -33,13 +33,13 @@
 [[main]]
   name = "Vetrina"
   parent = "Pasticceria"
-  pageRef = "examples"
+  pageRef = "docs/vetrina"
   weight = 30
 
 [[main]]
   name = "Ricette"
   parent = "Pasticceria"
-  pageRef = "guides"
+  pageRef = "docs/ricette"
   weight = 40
 
 [[main]]

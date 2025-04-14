@@ -8,7 +8,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/docs/ricette/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/docs/special/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/vetrina/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -151,11 +161,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/examples/_index.zh-cn/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/sito-aziendale/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -227,11 +232,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/authors/nunocoracao/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/examples/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

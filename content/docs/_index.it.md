@@ -9,5 +9,5 @@ cascade:
 
 ---
 {{< lead >}}
-Questo è il Lead
+Tutti i nostri documenti!
 {{< /lead >}}
