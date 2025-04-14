@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Zanzibar</copyright>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>n9o.xyz</title>
@@ -38,7 +38,7 @@
       
       <guid>http://localhost:1313/docs/special/</guid>
       <description>&lt;h2&gt;Specilità di Pasqua&lt;/h2&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/special/featured.png" />
     </item>
     
     <item>
@@ -992,106 +992,6 @@
     </item>
     
     <item>
-      <title>Blowfish Tutorial</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>用户列表</title>
       <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
@@ -1144,21 +1044,6 @@
     </item>
     
     <item>
-      <title>Showcase</title>
-      <link>http://localhost:1313/examples/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/examples/_index.zh-cn/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  See what&amp;rsquo;s possible with Blowfish.
-&lt;/div&gt;
-
-&lt;p&gt;This section contains links to example templates and pages created using Blowfish to get you inspired.&lt;/p&gt;
-&lt;hr&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>作者列表示例</title>
       <link>http://localhost:1313/authors/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1177,38 +1062,6 @@
       <description>&lt;p&gt;Blowfish 支持基于 Hugo 的所有分类方法。同时，当前的标签预览页也支持展示自定义内容。&lt;/p&gt;
 &lt;p&gt;在这里可以为每个分类添加额外的描述信息。查看下面的&lt;a href=&#34;http://localhost:1313/tags/advanced/&#34;&gt;高级标签&lt;/a&gt;页面，了解更多。&lt;/p&gt;
 &lt;hr&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>欢迎来到 Blowfish! :tada:</title>
-      <link>http://localhost:1313/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/_index.zh-cn/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-  &lt;span class=&#34;flex items-center ltr:pr-3 rtl:pl-3 text-primary-400&#34;&gt;
-    
-    
-      &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
-    
-      &lt;/span&gt;
-    
-
-  &lt;/span&gt;
-  &lt;span class=&#34;flex items-center justify-between grow dark:text-neutral-300&#34;&gt;
-    &lt;span class=&#34;prose dark:prose-invert&#34;&gt; 这是 &lt;code id=&#34;layout&#34;&gt;background&lt;/code&gt; 的样式示例。&lt;/span&gt;
-    &lt;button
-      id=&#34;switch-layout-button&#34;
-      class=&#34;px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700&#34;
-    &gt;
-      切换 layout &amp;orarr;
-    &lt;/button&gt;
-  &lt;/span&gt;
-&lt;/div&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-node&#34; data-lang=&#34;node&#34;&gt;npx blowfish-tools
-&lt;/code&gt;&lt;/pre&gt;&lt;lite-youtube videoid=&#34;SgXhGb-7QbU&#34; playlabel=&#34;SgXhGb-7QbU&#34; params=&#34;&#34;&gt;&lt;/lite-youtube&gt;</description>
       
     </item>
     
