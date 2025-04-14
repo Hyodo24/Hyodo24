@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vetrina on Zanzibar</title>
+    <link>http://localhost:1313/vetrina/</link>
+    <description>Recent content in Vetrina on Zanzibar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 Zanzibar</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/vetrina/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Colazione</title>
+      <link>http://localhost:1313/vetrina/colazione/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/colazione/</guid>
+      <description>&lt;p&gt;Scopri le nostre specialità di pasticceria&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Torte</title>
+      <link>http://localhost:1313/vetrina/torte/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/torte/</guid>
+      <description>&lt;p&gt;Testo o contenuto dell&amp;rsquo;articolo&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

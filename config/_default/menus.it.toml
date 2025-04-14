@@ -33,7 +33,7 @@
 [[main]]
   name = "Vetrina"
   parent = "Pasticceria"
-  pageRef = "docs/vetrina"
+  pageRef = "vetrina"
   weight = 30
 
 [[main]]
@@ -47,10 +47,10 @@
   pageRef = "users"
   weight = 90
 
-[[main]]
-  name = "Info"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
+# [[main]]
+#   name = "Info"
+#   url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+#   weight = 100
 
 #[[main]]
 #  name = "Test"

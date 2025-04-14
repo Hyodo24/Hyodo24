@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Zanzibar</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>n9o.xyz</title>
@@ -49,16 +49,6 @@
       <guid>http://localhost:1313/docs/special/</guid>
       <description>&lt;h2&gt;Specilità di Pasqua&lt;/h2&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/special/featured.png" />
-    </item>
-    
-    <item>
-      <title>Vetrina</title>
-      <link>http://localhost:1313/docs/vetrina/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/vetrina/</guid>
-      <description></description>
-      
     </item>
     
     <item>
@@ -1009,6 +999,26 @@
       <guid>http://localhost:1313/users/c0a065e9e761d745b1ff12b90254cee0/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/c0a065e9e761d745b1ff12b90254cee0/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Colazione</title>
+      <link>http://localhost:1313/vetrina/colazione/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/colazione/</guid>
+      <description>&lt;p&gt;Scopri le nostre specialità di pasticceria&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Torte</title>
+      <link>http://localhost:1313/vetrina/torte/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/torte/</guid>
+      <description>&lt;p&gt;Testo o contenuto dell&amp;rsquo;articolo&amp;hellip;&lt;/p&gt;</description>
+      
     </item>
     
     <item>

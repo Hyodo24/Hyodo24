@@ -23,6 +23,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/vetrina/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
