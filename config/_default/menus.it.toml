@@ -44,7 +44,7 @@
 
 [[main]]
   name = "Contatti"
-  pageRef = "users"
+  pageRef = "contatti"
   weight = 90
 
 # [[main]]
