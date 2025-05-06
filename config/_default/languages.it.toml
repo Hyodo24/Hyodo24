@@ -9,7 +9,7 @@ title = "Zanzibar"
   rtl = false
   dateFormat = "04 january 2025"
   logo = "img/zanzilogo_testo.png"
-  description = "Un potente, leggero bar per Olivarella."
+  description = "Un potente, leggero bar per Pippo."
 
 [params.author]
   name = "Zanzibar"
