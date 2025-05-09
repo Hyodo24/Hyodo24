@@ -46,7 +46,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = false
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "vetrina"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -79,7 +79,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true 
   showAuthorsBadges = false 
   showWordCount = false
-  sharingLinks = ["twitter", "whatsapp","facebook", "email", "instagram"]
+  sharingLinks = ["whatsapp","facebook", "email", "instagram", "twitter"]
 
 [list]
   showHero = true

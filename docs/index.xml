@@ -37,7 +37,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/docs/special/</guid>
-      <description>&lt;h2&gt;Specilità di Pasqua&lt;/h2&gt;</description>
+      <description>&lt;h2&gt;Specialità di Pasqua&lt;/h2&gt;
+&lt;p&gt;
+  A Pasqua, da ZanziBar Olivarella la dolcezza non è solo una promessa: è un&#39;esperienza. Le nostre uova artigianali sono scrigni di gusto, realizzate con passione e farcite con creme ricche e avvolgenti.
+&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/special/featured.png" />
     </item>
     
@@ -52,12 +55,65 @@
     </item>
     
     <item>
+      <title>Gelati e Granite</title>
+      <link>http://localhost:1313/vetrina/gelati/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/gelati/</guid>
+      <description>&lt;h2&gt;Il Gusto della Tradizione&lt;/h2&gt;
+&lt;p&gt;
+  Da ZanziBar, ogni gelato e granita è un capolavoro di freschezza e sapore. Utilizzando solo ingredienti selezionati e freschissimi, siamo in grado di offrire un&#39;esperienza unica per ogni palato, che si tratti di un fresco pomeriggio estivo o di una dolce pausa invernale.
+  E non dimenticare che questi sono solo alcuni dei gusti che puoi trovare da noi: ci sono sempre tante &lt;strong&gt;altre deliziose sorprese&lt;/strong&gt; da scoprire!
+&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Torte</title>
       <link>http://localhost:1313/vetrina/torte/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/vetrina/torte/</guid>
-      <description>&lt;p&gt;Testo o contenuto dell&amp;rsquo;articolo&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;style&gt;
+  .torta-catalogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .torta-item {
+    flex: 1 1 calc(25% - 20px);
+    text-align: center;
+  }
+
+  .torta-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .torta-item p {
+    margin-top: 8px;
+    font-weight: 500;
+  }
+
+  @media (max-width: 768px) {
+    .torta-item {
+      flex: 1 1 calc(50% - 20px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .torta-item {
+      flex: 1 1 100%;
+    }
+  }
+&lt;/style&gt;
+&lt;div class=&#34;torta-catalogo&#34;&gt;
+  &lt;div class=&#34;torta-item&#34;&gt;
+    &lt;img src=&#34;img/torta1.jpg&#34; alt=&#34;Torta 1&#34;&gt;
+    &lt;p&gt;Cioccolato · Compleanno&lt;/p&gt;</description>
       
     </item>
     

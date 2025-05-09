@@ -91,7 +91,7 @@
     "name": "Torte",
     "headline": "Torte",
     "description": "Le nostre colazioni artigianali",
-    "abstract": "\u003cp\u003eTesto o contenuto dell\u0026rsquo;articolo\u0026hellip;\u003c\/p\u003e",
+    "abstract": "\u003cstyle\u003e\r\n  .torta-catalogo {\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n    justify-content: space-between;\r\n    gap: 20px;\r\n  }\r\n\r\n  .torta-item {\r\n    flex: 1 1 calc(25% - 20px);\r\n    text-align: center;\r\n  }\r\n\r\n  .torta-item img {\r\n    width: 100%;\r\n    height: auto;\r\n    border-radius: 8px;\r\n  }\r\n\r\n  .torta-item p {\r\n    margin-top: 8px;\r\n    font-weight: 500;\r\n  }\r\n\r\n  @media (max-width: 768px) {\r\n    .torta-item {\r\n      flex: 1 1 calc(50% - 20px);\r\n    }\r\n  }\r\n\r\n  @media (max-width: 480px) {\r\n    .torta-item {\r\n      flex: 1 1 100%;\r\n    }\r\n  }\r\n\u003c\/style\u003e\r\n\u003cdiv class=\u0022torta-catalogo\u0022\u003e\r\n  \u003cdiv class=\u0022torta-item\u0022\u003e\r\n    \u003cimg src=\u0022img\/torta1.jpg\u0022 alt=\u0022Torta 1\u0022\u003e\r\n    \u003cp\u003eCioccolato · Compleanno\u003c\/p\u003e",
     "inLanguage": "it",
     "url" : "http:\/\/localhost:1313\/vetrina\/torte\/",
     "author" : {
@@ -107,7 +107,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "4"
+    "wordCount": "34"
   }]
   </script>
 
@@ -700,8 +700,63 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Testo o contenuto dell&rsquo;articolo&hellip;</p>
+          <style>
+  .torta-catalogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
 
+  .torta-item {
+    flex: 1 1 calc(25% - 20px);
+    text-align: center;
+  }
+
+  .torta-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .torta-item p {
+    margin-top: 8px;
+    font-weight: 500;
+  }
+
+  @media (max-width: 768px) {
+    .torta-item {
+      flex: 1 1 calc(50% - 20px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .torta-item {
+      flex: 1 1 100%;
+    }
+  }
+</style>
+<div class="torta-catalogo">
+  <div class="torta-item">
+    <img src="img/torta1.jpg" alt="Torta 1">
+    <p>Cioccolato · Compleanno</p>
+  </div>
+  <div class="torta-item">
+    <img src="img/torta2.jpg" alt="Torta 2">
+    <p>Pistacchio · Battesimo</p>
+  </div>
+  <div class="torta-item">
+    <img src="img/torta3.jpg" alt="Torta 3">
+    <p>Frutti di bosco · Laurea</p>
+  </div>
+  <div class="torta-item">
+    <img src="img/torta4.jpg" alt="Torta 4">
+    <p>Nutella · Anniversario</p>
+  </div>
+</div>
+<p style="margin-top: 30px; font-size: 1rem;">
+  Hai in mente una torta speciale? La realizziamo su misura per te! Scrivici o chiamaci, trovi tutto nella sezione <strong>Contatti</strong>.
+</p>
           
           
           
@@ -713,24 +768,6 @@
         
   
   <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
-    
-      
-      <a
-      target="_blank"
-      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/vetrina/torte/&amp;text=Torte"
-      title="Tweetta su Twitter"
-      aria-label="Tweetta su Twitter"
-      >
-      
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
-  </span>
-
-
-    </a>
-      
     
       
       <a
@@ -789,6 +826,24 @@
     </a>
       
     
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/vetrina/torte/&amp;text=Torte"
+      title="Tweetta su Twitter"
+      aria-label="Tweetta su Twitter"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </span>
+
+
+    </a>
       
     
   </section>
@@ -850,6 +905,96 @@
   
   
   <span title="Tempo di lettura">1 minuto</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+
+  
+  
+
+  <a href="/vetrina/gelati/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/vetrina/gelati/">Gelati e Granite</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <span title="Tempo di lettura">2 minuti</span>
   
 
   
