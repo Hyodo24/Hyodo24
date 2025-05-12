@@ -115,3 +115,17 @@ weight: 6
 <p>
   Ogni chiacchiera è preparata con cura, per offrire un'esperienza di Carnevale unica e indimenticabile. Non perderti la nostra vasta selezione e lasciati conquistare dai tanti gusti disponibili. Una vera festa per il palato!
 </p>
+
+<hr>
+
+<h2>Gelato alla Camurrìa</h2>
+<p>Un gusto esclusivo, dal nome tutto siciliano, che cattura subito l’attenzione. La Camurrìa è una provocazione, una risata, un “che bontà” travestito da fastidio… ed è proprio questo che lo rende unico!</p>
+
+<p>Cosa rende speciale il gelato alla Camurrìa?</p>
+<ul>
+<li><strong>Nome ironico e memorabile</strong></li>
+
+<li><strong>Mix audace di sapori dolci, tostati, e avvolgenti</strong></li>
+
+<li><strong>Un gusto che “non ti leva dalla testa”… come una vera camurrìa!</strong></li>
+</ul>
