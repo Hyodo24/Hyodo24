@@ -45,22 +45,42 @@ menu:
 
 <div class="torta-catalogo">
   <div class="torta-item">
-    <img src="img/torta1.jpg" alt="Torta 1">
-    <p>Cioccolato · Compleanno</p>
+    <img src="torta1.png" alt="Torta 1">
+    <p>Cioccolato Compleanno</p>
   </div>
   <div class="torta-item">
-    <img src="img/torta2.jpg" alt="Torta 2">
-    <p>Pistacchio · Battesimo</p>
+    <img src="torta2.png" alt="Torta 2">
+    <p>Tartufone</p>
   </div>
   <div class="torta-item">
-    <img src="img/torta3.jpg" alt="Torta 3">
-    <p>Frutti di bosco · Laurea</p>
+    <img src="torta3.png" alt="Torta 3">
+    <p>Compleanno</p>
   </div>
   <div class="torta-item">
-    <img src="img/torta4.jpg" alt="Torta 4">
-    <p>Nutella · Anniversario</p>
+    <img src="torta4.png" alt="Torta 4">
+    <p>Tronchetto gelato</p>
   </div>
 </div>
+
+<div class="torta-catalogo">
+  <div class="torta-item">
+    <img src="torta5.png" alt="Torta 1">
+    <p>Torta Montagna</p>
+  </div>
+  <div class="torta-item">
+    <img src="torta6.png" alt="Torta 2">
+    <p>Torta Mimosa</p>
+  </div>
+  <div class="torta-item">
+    <img src="torta7.png" alt="Torta 3">
+    <p>Compleanno</p>
+  </div>
+  <div class="torta-item">
+    <img src="torta8.png" alt="Torta 4">
+    <p>San Valentino</p>
+  </div>
+</div>
+
 <p style="margin-top: 30px; font-size: 1rem;">
   Hai in mente una torta speciale? La realizziamo su misura per te! Scrivici o chiamaci, trovi tutto nella sezione <strong>Contatti</strong>.
 </p>

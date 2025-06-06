@@ -15,7 +15,18 @@
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/vetrina/colazione/</guid>
-      <description>&lt;p&gt;Scopri le nostre specialità di pasticceria&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;style&gt;
+.img {
+  display: flex;
+  flex-direction: row;
+}
+&lt;/style&gt;
+&lt;section&gt;
+  &lt;h2&gt;La Colazione da Zanzibar&lt;/h2&gt;
+  &lt;p&gt;
+    La mattina da Zanzibar inizia con il profumo di brioche appena sfornate, farcite al momento con le nostre creme artigianali: pistacchio puro, cioccolato fondente, marmellate di stagione e crema pasticcera. 
+    Accompagniamo ogni dolce con un cappuccino cremoso, caffè espresso 100% arabica, o con una delle nostre alternative come ginseng, orzo o latte vegetale.
+  &lt;/p&gt;</description>
       
     </item>
     
@@ -30,6 +41,17 @@
   Da ZanziBar, ogni gelato e granita è un capolavoro di freschezza e sapore. Utilizzando solo ingredienti selezionati e freschissimi, siamo in grado di offrire un&#39;esperienza unica per ogni palato, che si tratti di un fresco pomeriggio estivo o di una dolce pausa invernale.
   E non dimenticare che questi sono solo alcuni dei gusti che puoi trovare da noi: ci sono sempre tante &lt;strong&gt;altre deliziose sorprese&lt;/strong&gt; da scoprire!
 &lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Piccola Pasticceria</title>
+      <link>http://localhost:1313/vetrina/piccolapasticceria/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vetrina/piccolapasticceria/</guid>
+      <description>&lt;h3&gt;La Nostra Piccola Pasticceria: Un Mondo di Delicatezze&lt;/h3&gt;
+&lt;p&gt;Entra nel mondo incantato della nostra Piccola Pasticceria, dove ogni creazione è un piccolo capolavoro di gusto e arte. Qui, l&#39;attenzione al dettaglio e la passione per la tradizione si fondono per dar vita a un assortimento irresistibile di mignon, perfetti per ogni occasione o semplicemente per una coccola quotidiana.&lt;/p&gt;</description>
       
     </item>
     
@@ -77,8 +99,8 @@
 &lt;/style&gt;
 &lt;div class=&#34;torta-catalogo&#34;&gt;
   &lt;div class=&#34;torta-item&#34;&gt;
-    &lt;img src=&#34;img/torta1.jpg&#34; alt=&#34;Torta 1&#34;&gt;
-    &lt;p&gt;Cioccolato · Compleanno&lt;/p&gt;</description>
+    &lt;img src=&#34;torta1.png&#34; alt=&#34;Torta 1&#34;&gt;
+    &lt;p&gt;Cioccolato Compleanno&lt;/p&gt;</description>
       
     </item>
     

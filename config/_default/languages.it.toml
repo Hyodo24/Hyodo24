@@ -14,7 +14,7 @@ title = "Zanzibar"
 [params.author]
   name = "Zanzibar"
   image = "img/zanzilogo.png"
-  headline = "Questo è l'ipotetico subheadline"
+  headline = "Tradizione e innovazione nel gusto che ti accompagna."
   bio = "Questo va cambiata in Bio (ancora non so dove)"
   links = [
     { instagram = "https://www.instagram.com/zanzibarpasticceriagelateria/" },
